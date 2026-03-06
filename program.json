@@ -1,0 +1,25 @@
+{
+  "guncelleme_notu": "Kral ders programını GitHub'dan güncelledi!",
+  "dersler": [
+    {
+      "ad": "Analiz (Calculus)",
+      "saat": "09:00",
+      "hoca": "Matematik Bolumu"
+    },
+    {
+      "ad": "Nesne Yonelimli Programlama",
+      "saat": "13:00",
+      "hoca": "Bilgisayar Muh."
+    },
+    {
+      "ad": "Veri Yapilari",
+      "saat": "15:00",
+      "hoca": "Algoritma Ustasi"
+    },
+    {
+      "ad": "Yurt Odasi Gurultu Yonetimi",
+      "saat": "22:00",
+      "hoca": "Oda Arkadaslari"
+    }
+  ]
+}
